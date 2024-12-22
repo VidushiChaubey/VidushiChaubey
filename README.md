@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidushichaubey&label=Profile%20views&color=0e75b6&style=flat" alt="vidushichaubey" /> </p>
 
-<img align="right"> alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnAwbTF2NnpqbHQ2bDdweGYyZjFyeXJ1ejZiYTYyNWo5czEzaHR1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"
+<img align="right" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnAwbTF2NnpqbHQ2bDdweGYyZjFyeXJ1ejZiYTYyNWo5czEzaHR1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
